@@ -7,3 +7,14 @@ p {
 h1 {
 	text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
+h2 {
+	color: yellow;
+	background: brown;
+	font-style: bold;
+	text-align: left;
+}
+h3 {
+	font-style: italic;
+	color: blue;
+	text-align: left;
+}
