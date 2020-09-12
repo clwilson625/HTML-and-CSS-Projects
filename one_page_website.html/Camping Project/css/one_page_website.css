@@ -1,0 +1,26 @@
+html {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #A0522D;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    border: 8px double #8B4513;
+
+body {
+    font-size: 12px;
+    font-family: sans-serif;
+    margin: 0;
+    line-height: 1.5;
+
+}
+
+h3 {
+    color: #DAA520;
+    font-style: italic;
+    font-weight: 400;
+}
+
+p {
+    color: #A0522D;
+}
